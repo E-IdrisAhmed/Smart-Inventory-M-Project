@@ -39,6 +39,23 @@ No external dataset is used.
 All data is **manually entered** by the user through the interface and stored in Firestore.
 
 ---
+---
+
+## 📁 Dataset (Optional)
+
+Although the project works with real-time user input, a sample dataset is added for demonstration.
+
+- **File Name**: `inventory_dataset.csv`
+- **Purpose**: To simulate product entries for testing
+- **Format**: CSV (Comma Separated Values)
+- **Columns**:
+  - `name` (Product name)
+  - `available_stock`
+  - `minimum_stock_required`
+
+You can find it inside the root directory or `sample_data/`.
+
+---
 
 ## 🎯 Objective
 
